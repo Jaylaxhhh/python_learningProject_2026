@@ -68,11 +68,4 @@ def main():
 
 main()
 
-
-'''
-for test in soup.find_all('a'):
-    if test.string != None :
-        print(test.string)
-    else:
-        continue
-'''         
+ 
